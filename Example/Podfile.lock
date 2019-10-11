@@ -1,0 +1,16 @@
+PODS:
+  - PTSuperImages (0.1.0)
+
+DEPENDENCIES:
+  - PTSuperImages (from `../`)
+
+EXTERNAL SOURCES:
+  PTSuperImages:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PTSuperImages: c034c38ca91407c68148ceed3e4cb61785519d3a
+
+PODFILE CHECKSUM: dd6b3253a978fa706cb97eab9e032b52b46d6c70
+
+COCOAPODS: 1.4.0

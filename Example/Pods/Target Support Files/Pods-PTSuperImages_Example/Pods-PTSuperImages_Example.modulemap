@@ -1,0 +1,6 @@
+framework module Pods_PTSuperImages_Example {
+  umbrella header "Pods-PTSuperImages_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

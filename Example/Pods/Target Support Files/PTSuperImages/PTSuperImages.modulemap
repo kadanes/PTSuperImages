@@ -1,0 +1,6 @@
+framework module PTSuperImages {
+  umbrella header "PTSuperImages-umbrella.h"
+
+  export *
+  module * { export * }
+}
